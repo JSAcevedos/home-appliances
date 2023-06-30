@@ -1,4 +1,4 @@
-# home-appliances
+# Home-Appliances
 
 You are the sales manager of a home appliances distributor. Finished products slide down a conveyor belt to be shipped as follows. As they arrive, they must be organized into groups, one group for each store. The products destined for the same store must be stacked in the order they arrive for later distribution.
 
